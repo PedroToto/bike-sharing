@@ -43,6 +43,6 @@ in this project I was able to apply all the concepts that were covered in this u
  In this project i was able to build a regression model to predict the bike demand given the bike sharing historical data. I first load the data and analyzed the features, plotting sample rows and using pandas describe method to view some of the min/max/varition of the dataset features. Then I build the first model with default parameters and without doing much temparing with the features.
 
 For the second model i did a few exploratory data analysis and feature creation
-by extracting year, month, day and hour into separate features from the datetime feature and i also converted the type of the features season and weather into category type. Then I trained the model and this significant improved by 69%.
+by extracting year, month, day and hour into separate features from the datetime feature and i also converted the type of the features season and weather into category type. Then I trained the model and this significant improved by `69%`.
 
-For more experience i used hyperparameters for model algorithm which are GBM,	NN and	XGB. After the training the model was decreased by 57%. I think if we spend more time on explanatory data analysis and use more on tuning the model could get better.
+For more experience i used hyperparameters for model algorithm which are GBM,	NN and	XGB. After the training the model was decreased by `57%`. I think if we spend more time on explanatory data analysis and use more on tuning the model could get better.
