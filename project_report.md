@@ -25,7 +25,7 @@ I would spend more time on exploratory data analysis and also try differents hyp
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 
-| model | hpo2 | hpo2 | hpo3 | score |
+| model | hpo1 | hpo2 | hpo3 | score |
 | -------------- | ----- | ------ | ------ | ------- |
 | initial  | default | default | default | 1.80611 |
 | add_features | default | default | default | 0.69323 |
