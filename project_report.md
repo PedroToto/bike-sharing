@@ -1,6 +1,9 @@
 # Report: Predict Bike Sharing Demand with AutoGluon Solution
 ### Philippe Jean Mith
 
+## Problem Statement
+Bike-sharing demand is highly relevant to related problems companies encounter, such as Uber, Lyft, and DoorDash. Predicting demand not only helps businesses prepare for spikes in their services but also improves customer experience by limiting delays.
+
 ## Initial Training
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
 
