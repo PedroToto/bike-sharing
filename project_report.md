@@ -2,7 +2,11 @@
 ### Philippe Jean Mith
 
 ## Problem Statement
-Bike-sharing demand is highly relevant to related problems companies encounter, such as Uber, Lyft, and DoorDash. Predicting demand not only helps businesses prepare for spikes in their services but also improves customer experience by limiting delays.
+Bike-sharing demand is highly relevant to related problems companies encounter, such as Uber, Lyft, and DoorDash. Predicting demand not only helps businesses prepare for spikes in their services but also improves customer experience by limiting delays. In this project,  we want to improve prediction accuracy by using differents algorithm and baysian optimization for hyperparameter tuning to optimize the performance so that we can find the best hyperparameters. We will use the AutoGluon library to train several models for the Bike Sharing Demand on Sagemaker.
+
+
+## Evaluation metrics
+To examine the effectiveness of the proposed structure, we will use the root mean squared error (RMSE) as evaluation measures. Root mean square error or root mean square deviation is one of the most commonly used measures for evaluating the quality of predictions. It shows how far predictions fall from measured true values using Euclidean distance.
 
 ## Initial Training
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
